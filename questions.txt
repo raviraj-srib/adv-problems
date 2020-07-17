@@ -2,7 +2,7 @@
 
 2. Devide array of n size into m parts such that maximum of each parts should be minimum.
 
-3. Check if the given number is additive(A + B = B) or not.
+3. Check if the given number is additive(A + B = C) or not.
 
 4. Find top <N> most frequent words from ;arge document based on below condition:
    a. ignore the stop words(a, the, is, am ....)
