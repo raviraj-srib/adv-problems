@@ -1,2 +1,2 @@
 # Problems
-Commonly asked questions in interviews
+Solution to Interview Bit Questions
